@@ -30,9 +30,13 @@ Proje sayımız ilerledikçe proje yönetimimizi kolaylaştırmak adına projele
 ### Input
 
 Hamburger hamburger = new Hamburger("Basic", "Sausage", 3.56, "White");
+
 hamburger.addHamburgerAddition1("Tomato", 0.27);
+
 hamburger.addHamburgerAddition2("Lettuce", 0.75);
+
 hamburger.addHamburgerAddition3("Cheese", 1.13);
+
 System.out.println("Total Burger price is " + hamburger.itemizeHamburger());
 
 HealthyBurger healthyBurger = new HealthyBurger("Bacon", 5.67);
