@@ -55,25 +55,45 @@ Proje sayımız ilerledikçe proje yönetimimizi kolaylaştırmak adına projele
 ### Output
 
 Name: Basic
+
 Meat: Normal
+
 BreadRollType: Wrap
+
 Addition1: Tomato
+
 Addition2: Lettuce
+
 Addition3: Cheese
+
 Price: 5.71
+
 ------------------------
+
 Name: Vegan Burger
+
 Meat: Tofu
+
 BreadRollType: Sandwich
+
 Addition1: Egg
+
 HealthyAddition1: Lentils
+
 Price: 14.51
+
 ------------------------
+
 Deluxe Burger için yeni malzeme eklenemez
+
 Name: Deluxe Burger
+
 Meat: Double
+
 BreadRollType: Double Sandwich
+
 Price: 19.1
+
 ------------------------
 
 ### Opsiyonel Görevler
