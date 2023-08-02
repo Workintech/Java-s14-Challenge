@@ -14,7 +14,6 @@ Proje sayımız ilerledikçe proje yönetimimizi kolaylaştırmak adına projele
  * Uygulamanın amacı, Workintech Burger adlı bir şirketin hamburgerlerini satma sürecini yönetmesine yardımcı olmaktır. 
  * İlk başta 3 tane yeni sınıf oluşturmalısınız. ```Hamburger```, ```DeluxeBurger```, ```HealthyBurger```(Hamburger sınıfını ana sınıf olarak dizayn etmelsiniz)
  * Hamburger sınıfı içerisinde 4 tane değişken tanımlamalısınız. ```name```, ```meat```, ```price```, ```breadRollType``` price değişkeni double olmalı. Kalanları String olarak tanımlayabilirsiniz.
- * Hamburger objesi yaratılması ```name```, ```price``` ve  ```breadRollType``` değerlerini kabul eden bir ```constructor``` metodu Hamburger sınıfında tanımlanmalı.
  * Hamburger'in üzerine başka malzemeler eklenebilir. Bunları şu isimlerle tutmalıyız. addition1Name, addition1Price, addition2Name, addition2Price, addition3Name, addition3Price, addition4Name ve addition4Price. İsim tutan değişkenler String olmalı, price tutan değişkenler double olarak tanımlanmalı.
  * Hamburger sınıfı içerisine malzemelerin eklenmesi için 5 tane daha metod eklemeliyiz. 4 tanesi ilgili malzemenin eklenmesi için. 1 tane de tüm eklenen malzemelerin görüntülenmesi için.
  * Metodları şu isimle adlandırabilirsiniz. ```addHamburgerAddition1```, ```addHamburgerAddition2```, ```addHamburgerAddition3```, ```addHamburgerAddition4``` ve ```itemizeHamburger```
